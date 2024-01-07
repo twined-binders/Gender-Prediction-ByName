@@ -22,6 +22,7 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 92vh;
+  padding: 8px;
 }
 
 .container-input {
